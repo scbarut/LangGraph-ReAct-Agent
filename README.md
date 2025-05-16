@@ -1,4 +1,4 @@
-# LangGraph React Agent for Tool-Augmented Reasoning
+# LangGraph Re-Act Agent for Tool-Augmented Reasoning
 
 This project implements a LangGraph-based reactive agent powered by **Gemini 2.0 Flash**. It handles complex user queries using memory, conditional logic, and powerful external tools — including the ability to process content from files provided via URL.
 
